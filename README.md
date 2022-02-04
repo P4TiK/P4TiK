@@ -1,4 +1,4 @@
-!##알잘딱깔센
+# 알잘딱깔센
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=P4TiK&show_icons=true&theme=radical)](https://github.com/P4TiK)
 
